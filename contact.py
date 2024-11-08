@@ -9,7 +9,5 @@ email = "amitkukrejadev@gmail.com"
 print(f"Connect With Me On My Linkedin: {linkedin}")
 print(f"Check Out My Projects On My Github: {github}")
 print(f"Send Me An Email: {email}")
-
-
 print("\nFeel free to reach out for any queries or opportunities!")
 print("Looking forward to connecting with you!")
