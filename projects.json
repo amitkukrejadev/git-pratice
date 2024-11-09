@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "name": "Restaurant Management System",
+      "language": "C++",
+      "description": "A C++ application for managing restaurant orders and inventory."
+    },
+    {
+      "name": "iOS Tip Calculator",
+      "language": "Swift",
+      "description": "An iOS app for calculating tips based on bill amount."
+    }
+  ]
+}
